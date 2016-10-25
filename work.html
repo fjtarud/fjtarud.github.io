@@ -1,0 +1,149 @@
+<!doctype html>
+<html>
+<title>Tarud Design - Work</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+<link rel="stylesheet" href="http://www.w3schools.com/lib/w3-theme-black.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+  
+<style>  
+  
+  h1 {
+   font-family: 'Roboto', sans-serif;
+  }
+  
+  body {
+    margin: 0;
+  }
+  
+  header,
+  footer {
+  color: white;
+  background-color: black;
+  }
+  
+  footer {
+    text-align: center;
+    margin: 0;
+  }
+  
+</style>  
+  
+<body>
+
+
+<!-- Side Navigation on click -->
+<nav class="w3-sidenav w3-white w3-card-2 w3-animate-left" style="display:none;z-index:2" id="mySidenav">
+  <a href="javascript:void(0)" onclick="w3_close()" class="w3-closenav w3-xxxlarge w3-text-teal">Close
+    <i class="fa fa-remove"></i>
+  </a>
+  <a href="#">Link 1</a>
+  <a href="#">Link 2</a>
+  <a href="#">Link 3</a>
+  <a href="#">Link 4</a>
+  <a href="#">Link 5</a>
+</nav>
+
+<!-- Navbar -->
+<div class="w3-top">
+ <ul class="w3-navbar w3-theme-d2 w3-left-align">
+  <li class="w3-hide-medium w3-hide-large w3-opennav w3-right">
+    <a class="w3-hover-white w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
+  </li>
+  <li><a href="/index.html" class="w3-black"><img src="fjtarud.github.io/Tarud_Design_Side_Logo.jpg" height="25px" alt="Tarud Design Logo"></a></li>
+  <li class="w3-hide-small"><a href="/about.html" class="w3-hover-white">About</a></li>
+   <li class="w3-hide-small"><a href="#work" class="w3-hover-white">Work</a></li>
+  <li class="w3-hide-small"><a href="#pricing" class="w3-hover-white">Services</a></li>
+  <li class="w3-hide-small"><a href="#contact" class="w3-hover-white">Contact</a></li>
+ </ul>
+
+  <!-- Navbar on small screens -->
+  <div id="navDemo" class="w3-hide w3-hide-large w3-hide-medium">
+    <ul class="w3-navbar w3-left-align w3-theme">
+      <li><a href="about.html">About</a></li>
+      <li><a href="#work">Work</a></li>
+      <li><a href="#pricing">Services</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Work Row -->
+<div class="w3-row-padding w3-center w3-padding-16 w3-theme-l1" id="work">
+<h2>Work</h2>
+<p>Since begining studies at the Art Institute at Miami International University of Art and Design, Francisco has evolved as a designer in his many skills and abilities to become a greater creative.
+</div>
+
+<div class="w3-third">
+<div class="w3-card-2 w3-white">
+  <img src="/New_Times_Cover.jpg" alt="New Times Magazine Cover" style="width:100%">
+  <div class="w3-container w3-center">
+  <h3>New Times Cover</h3>
+  <h4>Digital Illustration</h4>
+  </div>
+  </div>
+</div>
+
+<div class="w3-third">
+<div class="w3-card-2 w3-white">
+  <img src="/Porsche_Magazine_Cover.jpg" alt="Porsche Insider Magazine Cover" style="width:100%">
+  <div class="w3-container w3-center">
+  <h3>Porsche Insider Cover</h3>
+  <h4>Introduction to Layout</h4>
+  </div>
+  </div>
+</div>
+
+<div class="w3-third">
+<div class="w3-card-2 w3-white">
+  <img src="/Animal_Planet_Cover.jpg" alt="Thermotar Daikin Colombia" style="width:100%">
+  <div class="w3-container w3-center">
+  <h3>Animal Planet Cover</h3>
+  <h4>Image Manipulation</h4>
+  </div>
+  </div>
+</div>
+
+<div class="w3-row-padding w3-center w3-padding-16 w3-theme-l1" id="Copyright">
+  <p>© 2016 Francisco Tarud Art. All Rights Reserved. A Division of Tarud-Design LLC.</p>
+</div>
+<hr>
+  
+<!-- Footer -->
+<footer>
+  <br>
+  <a href="index.html"><img src="fjtarud.github.io/Tarud_Design_Side_Logo.jpg" height="100px" alt="Tarud Design Logo"><p>
+  <a href="https://facebook.com/fjtarud"><img src="facebook_icon.png" height="40px" alt="facebook" target="_blank"></a>
+  <a href="https://twitter.com/fjtarud"><img src="twitter_icon.png" height="40px" alt="twitter" target="_blank"></a>
+  <a href="https://plus.google.com/fjtarud"><img src="google_icon.png" height="40px" alt="google" target="_blank"></a>
+  <a href="https://linkedin.com/fjtarud"><img src="linkedin_icon.png" height="40px" alt="linked in" target="_blank"></a>
+  <br>
+  <br>© 2016 Francisco Tarud Art. All Rights Reserved. A Division of Tarud-Design LLC.<br>
+</footer>
+
+<!-- Script For Side Navigation -->
+<script>
+function w3_open() {
+    var x = document.getElementById("mySidenav");
+    x.style.width = "300px";
+    x.style.textAlign = "center";
+    x.style.fontSize = "40px";
+    x.style.paddingTop = "10%";
+    x.style.display = "block";
+}
+function w3_close() {
+    document.getElementById("mySidenav").style.display = "none";
+}
+// Used to toggle the menu on smaller screens when clicking on the menu button
+function openNav() {
+    var x = document.getElementById("navDemo");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else {
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+  </body>
+</html>

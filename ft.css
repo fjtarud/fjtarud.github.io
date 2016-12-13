@@ -347,3 +347,33 @@ input[type=checkbox].ft-check:disabled+.ft-validate,input[type=radio].ft-radio:d
 .ft-border-pale-red,.ft-hover-border-pale-red:hover{border-color:#ffe7e7!important}.ft-border-pale-green,.ft-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .ft-border-pale-yellow,.ft-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.ft-border-pale-blue,.ft-hover-border-pale-blue:hover{border-color:#e7ffff!important}
 
+.menu.icon {
+  color: #000;
+  position: absolute;
+  margin-left: 2px;
+  margin-top: 10px;
+  width: 17px;
+  height: 1px;
+  background-color: currentColor;
+}
+
+.menu.icon:before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: 0;
+  width: 17px;
+  height: 1px;
+  background-color: currentColor;
+}
+
+.menu.icon:after {
+  content: '';
+  position: absolute;
+  top: 5px;
+  left: 0;
+  width: 17px;
+  height: 1px;
+  background-color: currentColor;
+}
+

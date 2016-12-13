@@ -347,33 +347,27 @@ input[type=checkbox].ft-check:disabled+.ft-validate,input[type=radio].ft-radio:d
 .ft-border-pale-red,.ft-hover-border-pale-red:hover{border-color:#ffe7e7!important}.ft-border-pale-green,.ft-hover-border-pale-green:hover{border-color:#e7ffe7!important}
 .ft-border-pale-yellow,.ft-hover-border-pale-yellow:hover{border-color:#ffffcc!important}.ft-border-pale-blue,.ft-hover-border-pale-blue:hover{border-color:#e7ffff!important}
 
-.menu.icon {
-  color: #000;
-  position: absolute;
-  margin-left: 2px;
-  margin-top: 10px;
-  width: 17px;
-  height: 1px;
-  background-color: currentColor;
+.contain3r {
+    display: inline-block;
+    cursor: pointer;
 }
 
-.menu.icon:before {
-  content: '';
-  position: absolute;
-  top: -5px;
-  left: 0;
-  width: 17px;
-  height: 1px;
-  background-color: currentColor;
+.b4r1, .b4r2, .b4r3 {
+    width: 35px;
+    height: 5px;
+    background-color: #333;
+    margin: 6px 0;
+    transition: 0.4s;
 }
 
-.menu.icon:after {
-  content: '';
-  position: absolute;
-  top: 5px;
-  left: 0;
-  width: 17px;
-  height: 1px;
-  background-color: currentColor;
+.change .b4r1 {
+    -webkit-transform: rotate(-45deg) translate(-9px, 6px) ;
+    transform: rotate(-45deg) translate(-9px, 6px) ;
 }
 
+.change .b4r2 {opacity: 0;}
+
+.change .b4r3 {
+    -webkit-transform: rotate(45deg) translate(-8px, -8px) ;
+    transform: rotate(45deg) translate(-8px, -8px) ;
+}

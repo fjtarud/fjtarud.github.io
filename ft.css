@@ -353,10 +353,10 @@ input[type=checkbox].ft-check:disabled+.ft-validate,input[type=radio].ft-radio:d
 }
 
 .b4r1, .b4r2, .b4r3 {
-    width: 30px;
-    height: 3px;
+    width: 25px;
+    height: 2px;
     background-color: #FFFFFF;
-    margin: 6px 0;
+    margin: 4px 0;
     transition: 0.3s;
 }
 

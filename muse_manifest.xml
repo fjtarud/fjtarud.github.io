@@ -1,0 +1,266 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.tarud-design.com/infodesign-final" resolutions="1x" timestamp="1513105351573">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="166556479" ref="index:models:racing"/>
+    <file name="nomq_preview_master_a-master.css" crc="4082879392" ref="index:models:racing"/>
+    <file name="index.css" crc="4065599752" ref="index"/>
+    <file name="nomq_index.css" crc="171819501" ref="index"/>
+    <file name="models.css" crc="4201867749" ref="models"/>
+    <file name="nomq_models.css" crc="3876317841" ref="models"/>
+    <file name="racing.css" crc="3828076455" ref="racing"/>
+    <file name="nomq_racing.css" crc="442549425" ref="racing"/>
+  </folder>
+  <folder name="assets">
+    <file name="ferrari-corso-pilota-racing-school-11.jpg" crc="45645550" seo="true" mt="1513010887000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:models:racing"/>
+    <file name="museutils.js" crc="3803043152" ref="index:models:racing"/>
+    <file name="whatinput.js" crc="86476730" ref="index:models:racing"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:models:racing"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:models:racing"/>
+    <file name="webpro.js" crc="242022427" ref="index:racing"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:models:racing"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:models:racing"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:models:racing"/>
+    <file name="require.js" crc="4157109226" ref="index:models:racing"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="racing"/>
+    <file name="form_check.php" crc="147359589" ref="racing"/>
+    <file name="form_throttle.php" crc="93986428" ref="racing"/>
+    <file name="form_process.php" crc="3851993751" ref="racing"/>
+    <file name="form-u1840.php" crc="448646766" ref="racing"/>
+  </folder>
+  <folder name="images">
+    <file name="ferrari3.svg" crc="519429197" seo="true" ref="index:models:racing">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="ferrari3_poster_.png" crc="294823561" ref="index"/>
+    <file name="488gtb.jpg" crc="3804273107" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:models:racing"/>
+    <file name="488spider.jpg" crc="528458337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ferrari-portofino-reveal-2017-featured-new.jpg" crc="3950048218" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ferraricalifornia.jpg" crc="351090175" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="83818_2018_ferrari_488.jpg" crc="4184982405" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="ferrari-side.jpg" crc="469095187" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ferrari-racing.jpg" crc="3875775971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ferrari-812-superfast_gamma.jpg" crc="3776814113" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="ferrari-812-superfast-logo.png" crc="4282993186" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="lineup_sep_white-left.jpg" crc="152889859" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="gtc4lusso-lineup-1.jpg" crc="192172806" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="gtc4lusso-logo-lineup.png" crc="27655551" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="arrow_whitetoblack.png" crc="3830490507" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="488gtb-lineup1.jpg" crc="4230412788" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="ferrari-488-gtb-logo-v2.png" crc="4095126013" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="lineup_sep_black-left.jpg" crc="465259320" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="488-spider-lineup1.jpg" crc="498996755" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="488spider.png" crc="436278205" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="lineup_sep_black-right.jpg" crc="4290932960" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="gtc4lussot-lineup.jpg" crc="4171350403" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="gtc4lussot-logo-lineup.png" crc="397916198" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="lineup_ferrari-portofino-2017.jpg" crc="399282111" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="170731-ferrari-portofino-2-crop-u1612.png" crc="4229819352" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="california-t-lineup12.jpg" crc="127424790" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="californiat.png" crc="466313823" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="arrow_blacktowhite.jpg" crc="368250829" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="170731-ferrari-portofino-2-crop-u16122.png" crc="4229819352" seo="true" ref="models">
+      <caption webpage="models" alt=""/>
+    </file>
+    <file name="ferrari-corso-pilota-racing-school-11.jpg" crc="45645550" seo="true" ref="racing">
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="ferrari-f1.jpg" crc="246934137" seo="true" ref="racing">
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="limited-0004.jpg" crc="67647382" seo="true" ref="racing">
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="pagina-ferrari-sport-driving-course-advanced.jpg" crc="4010853643" seo="true" ref="racing">
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="actor-michael-fassbender-and-his-2017-ferrari-488-challenge-race-car_100606782_h.jpg" crc="440912965" seo="true" ref="racing">
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="checkboxunchecked.jpg" crc="495023700" ref="racing">
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="checkboxuncheckedrollover.jpg" crc="4076496830" ref="racing">
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="checkboxuncheckedmousedown.jpg" crc="361678653" ref="racing">
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="checkboxchecked.jpg" crc="477278992" ref="racing">
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="checkboxcheckedrollover.jpg" crc="435737969" ref="racing">
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="checkboxcheckedmousedown.jpg" crc="4004261994" ref="racing">
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="limited-0004-crop-u1791.jpg" crc="3852089850" seo="true" ref="racing">
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="actor-michael-fassbender-and-his-2017-ferrari-488-challenge-race-car_100606782_h550x350.jpg" crc="199156781" seo="true" ref="racing">
+      <caption webpage="racing" alt=""/>
+      <caption webpage="racing" alt=""/>
+    </file>
+    <file name="limited-0004-crop-u17912.jpg" crc="3852089850" seo="true" ref="racing">
+      <caption webpage="racing" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="360645520" seo="true" mt="1513105046169" redirect="true"/>
+  <file name="models.html" crc="3766836577" seo="true" mt="1513105046169" redirect="true"/>
+  <file name="racing.html" crc="3794080756" seo="true" mt="1513105046169" redirect="true"/>
+</manifest>
